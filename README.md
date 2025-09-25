@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science at Griffith College, Cork
 
 # 💫 About Me:
-🌱 I’m currently learning Computer Science at Griffith College, Cork
+🌱 Motivated second-year Computing Science student at Griffith College Cork, currently achieving First Class Honours (90.01%). Skilled in web development, Java programming, and systems design, with strong interests in UI/UX and cybersecurity. I am eager to expand my technical expertise, gain mentorship from industry leaders, and contribute to innovative solutions that make a real-world impact. Recognized for academic excellence, problem-solving, and leadership, I bring curiosity, adaptability, and a drive to grow within the technology sector.
 
 
 ## 🌐 Socials:
